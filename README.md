@@ -8,8 +8,8 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
   
-![Harios's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariose&show_icons=true&theme=tokyonight)
-  
+[![Hariose's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariose&theme=tokyonight&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariose&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hariose)](https://solved.ac/hariose/)
   
 </div>
