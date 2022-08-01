@@ -3,7 +3,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hariose)](https://solved.ac/hariose/)
 
   
-[![Hariose's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariose&theme=tokyonight&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariose&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![EilLagerTodd GitHub stats](https://github-readme-stats.vercel.app/api?username=EilLagerTodd)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariose&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
